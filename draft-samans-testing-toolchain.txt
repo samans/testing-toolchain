@@ -2,14 +2,14 @@
 
 
 
-WG Working Group                                              Y. N. Here
+FAKE WG Working Group                                         Y. N. Here
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                               14 May 2026
 Expires: 15 November 2026
 
 
-                           TODO - Your title
-                  draft-todo-yourname-protocol-latest
+                           Testing Toolchain
+                     draft-samans-testing-toolchain
 
 Abstract
 
@@ -21,12 +21,11 @@ About This Document
 
    The latest revision of this draft can be found at
    https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-todo-yourname-
-   protocol/.
+   be found at https://datatracker.ietf.org/doc/draft-samans-testing/.
 
-   Discussion of this document takes place on the WG Working Group
-   mailing list (mailto:WG@example.com), which is archived at
-   https://example.com/WG.
+   Discussion of this document takes place on the FAKE WG Working Group
+   mailing list (mailto:scott.mansfield+garbage@gmail.com), which is
+   archived at https://example.com/WG.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/USER/REPO.

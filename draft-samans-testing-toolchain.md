@@ -44,8 +44,7 @@ TODO Abstract
 
 # Introduction
 
-TODO Introduction
-
+This is an internet-draft created to test tooling and templates.
 
 # Conventions and Definitions
 

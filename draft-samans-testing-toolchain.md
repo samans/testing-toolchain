@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: FAKE
-workgroup: FAKE WG Working Group
+area: "Applications"
+workgroup: "Testing"
 keyword:
  - next generation
  - unicorn
  - Hovercraft
 venue:
-  group: FAKE WG
-  type: Working Group
-  mail: scott.mansfield+garbage@gmail.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "Testing"
+  type: "Working Group"
+  mail: "dod-test@cavebear.com"
+  arch: ""
+  github: "samans/testing-toolchain"
+  latest: "https://samans.github.io/testing-toolchain/draft-samans-testing-toolchain.html"
 
 author:
  -

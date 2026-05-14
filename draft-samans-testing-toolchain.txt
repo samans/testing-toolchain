@@ -2,14 +2,14 @@
 
 
 
-FAKE WG Working Group                                         Y. N. Here
+Testing                                                     S. Mansfield
 Internet-Draft                                    Your Organization Here
 Intended status: Informational                               14 May 2026
 Expires: 15 November 2026
 
 
                            Testing Toolchain
-                     draft-samans-testing-toolchain
+                 draft-samans-testing-toolchain-latest
 
 Abstract
 
@@ -20,15 +20,15 @@ About This Document
    This note is to be removed before publishing as an RFC.
 
    The latest revision of this draft can be found at
-   https://example.com/LATEST.  Status information for this document may
-   be found at https://datatracker.ietf.org/doc/draft-samans-testing/.
+   https://samans.github.io/testing-toolchain/draft-samans-testing-
+   toolchain.html.  Status information for this document may be found at
+   https://datatracker.ietf.org/doc/draft-samans-testing-toolchain/.
 
-   Discussion of this document takes place on the FAKE WG Working Group
-   mailing list (mailto:scott.mansfield+garbage@gmail.com), which is
-   archived at https://example.com/WG.
+   Discussion of this document takes place on the Testing Working Group
+   mailing list (mailto:dod-test@cavebear.com), which is archived at .
 
    Source for this draft and an issue tracker can be found at
-   https://github.com/USER/REPO.
+   https://github.com/samans/testing-toolchain.
 
 Status of This Memo
 
@@ -73,7 +73,7 @@ Table of Contents
 
 1.  Introduction
 
-   TODO Introduction
+   This is an internet-draft created to test tooling and templates.
 
 2.  Conventions and Definitions
 
@@ -108,6 +108,6 @@ Acknowledgments
 
 Author's Address
 
-   Your Name Here
+   Scott Mansfield
    Your Organization Here
-   Email: your.email@example.com
+   Email: scott.mansfield@gmail.com
